@@ -1,6 +1,6 @@
 song,artist,id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
 Thrift Shop,Macklemore and Ryan Lewis featuring Wanz,1CmUZGtH29Kx36C1Hleqlz,0.781,0.526,6,-6.985,0,0.293,0.0619,0,0.0457,0.662,94.992,235613,4
-Blurred Lines,Robin Thicke featuring T.I. and Pharrell Williams,0n4bITAu0Y0nigrz3MFJMb,0.862,0.608,7,-4.762,1,0.0402,0.00373,6.14e-06,0.0856,0.836,120.002,263827,4
+Blurred Lines,Robin Thicke featuring T.I. and Pharrell Williams,0n4bITAu0Y0nigrz3MFJMb,0.862,0.608,7,-4.762,1,0.0402,0.00373,6.14E-06,0.0856,0.836,120.002,263827,4
 Radioactive,Imagine Dragons,4G8gkOterJn0Ywt6uhqbhp,0.478,0.799,9,-3.614,1,0.0638,0.126,0.000106,0.76,0.176,136.268,186813,4
 Harlem Shake,Baauer,01XFgRZfZI7oBagNf1Loml,0.452,0.794,0,-5.151,1,0.0483,0.0111,0.00182,0.416,0.282,137.825,196664,4
 Can't Hold Us,Macklemore and Ryan Lewis featuring Ray Dalton,3bidbhpOYeV4knp8AIu8Xn,0.641,0.922,2,-4.457,1,0.0786,0.0291,0,0.0862,0.847,146.078,258343,4
@@ -8,42 +8,42 @@ Mirrors,Justin Timberlake,6aGwF9D2BqmcSzF0JpfzJu,0.585,0.641,2,-7.428,1,0.0319,0
 Just Give Me a Reason,Pink featuring Nate Ruess,4VC5nFbYO4avKksJ9jN4pY,0.778,0.547,2,-7.273,1,0.0489,0.346,0.000302,0.132,0.441,95.002,242733,4
 When I Was Your Man,Bruno Mars,0nJW01T7XtvILxQgC5J7Wh,0.612,0.28,0,-8.648,1,0.0434,0.932,0,0.088,0.387,72.795,213827,4
 Cruise,Florida Georgia Line featuring Nelly,0i5el041vd6nxrGEU8QRxy,0.464,0.945,10,-3.342,1,0.0354,0.0189,0,0.0575,0.877,148.012,208960,4
-Roar,Katy Perry,6F5c58TMEs1byxUstkzVeM,0.671,0.766,7,-4.81,0,0.0323,0.00569,6.85e-06,0.549,0.371,89.968,223546,4
+Roar,Katy Perry,6F5c58TMEs1byxUstkzVeM,0.671,0.766,7,-4.81,0,0.0323,0.00569,6.85E-06,0.549,0.371,89.968,223546,4
 Locked Out of Heaven,Bruno Mars,3w3y8KPTfNeOKPiqUTakBh,0.726,0.698,5,-4.165,1,0.0431,0.049,0,0.309,0.867,143.994,233478,4
-Ho Hey,The Lumineers,0W4Kpfp1w2xkY3PrV714B7,0.685,0.466,0,-9.074,1,0.0304,0.794,2.06e-06,0.0915,0.353,79.936,163133,4
-Stay,Rihanna featuring Mikky Ekko,1dEy9Pl81QopSxNsPxXQxv,0.619,0.324,9,-10.146,0,0.0271,0.949,5.42e-05,0.114,0.0965,111.927,240707,4
-Get Lucky,Daft Punk featuring Pharrell Williams,2Foc5Q5nqNiosCNqttzHof,0.794,0.811,6,-8.966,0,0.038,0.0426,1.07e-06,0.101,0.862,116.047,248413,4
+Ho Hey,The Lumineers,0W4Kpfp1w2xkY3PrV714B7,0.685,0.466,0,-9.074,1,0.0304,0.794,2.06E-06,0.0915,0.353,79.936,163133,4
+Stay,Rihanna featuring Mikky Ekko,1dEy9Pl81QopSxNsPxXQxv,0.619,0.324,9,-10.146,0,0.0271,0.949,5.42E-05,0.114,0.0965,111.927,240707,4
+Get Lucky,Daft Punk featuring Pharrell Williams,2Foc5Q5nqNiosCNqttzHof,0.794,0.811,6,-8.966,0,0.038,0.0426,1.07E-06,0.101,0.862,116.047,248413,4
 Royals,Lorde,2dLLR6qlu5UJ5gk0dKz0h3,0.616,0.432,7,-9.546,1,0.133,0.106,0,0.132,0.302,84.778,190185,4
-I Knew You Were Trouble,Taylor Swift,72jCZdH0Lhg93z6Z4hBjgj,0.596,0.473,6,-6.745,1,0.039,0.00563,1.29e-06,0.043,0.648,154.228,217973,4
+I Knew You Were Trouble,Taylor Swift,72jCZdH0Lhg93z6Z4hBjgj,0.596,0.473,6,-6.745,1,0.039,0.00563,1.29E-06,0.043,0.648,154.228,217973,4
 We Can't Stop,Miley Cyrus,2y4lAQpi5VTNLu2ldeTdUH,0.613,0.622,1,-5.794,0,0.0334,0.00882,0,0.37,0.484,80.003,231240,4
 Wrecking Ball,Miley Cyrus,2vwlzO0Qp8kfEtzTsCXfyE,0.53,0.422,5,-6.262,1,0.0342,0.407,0,0.107,0.349,119.964,221360,4
 Wake Me Up,Avicii,4h8VwCb1MTGoLKueQ1WgbD,0.518,0.784,2,-5.659,1,0.0524,0.00346,0.00187,0.171,0.588,124.102,247427,4
 Suit & Tie,Justin Timberlake featuring Jay-Z,6dEnpbXyamib2EJnRhTt0G,0.795,0.596,11,-3.799,0,0.219,0.103,0,0.164,0.357,101.985,326280,4
 Cups (Pitch Perfect's When I'm Gone),Anna Kendrick,2sCl0FFOzZSmYZs90zOpd1,0.886,0.448,0,-8.866,1,0.112,0.0582,0.00658,0.035,0.731,129.966,126880,4
-Holy Grail,Jay Z featuring Justin Timberlake,nan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Scream & Shout,will.i.am featuring Britney Spears,5r6YGzvr9oZGVK6QVbh0HB,0.773,0.69,0,-6.835,1,0.0679,0.0216,7.8e-05,0.128,0.489,130.042,283400,4
+Holy Grail,Jay Z featuring Justin Timberlake,1olNHIIVl4EVwIEPGYIR7G,0.683,0.537,2,-6.945,0,0.0878,0.0619,1.01E-05,0.247,0.153,145.089,338413,4
+Scream & Shout,will.i.am featuring Britney Spears,5r6YGzvr9oZGVK6QVbh0HB,0.773,0.69,0,-6.835,1,0.0679,0.0216,7.80E-05,0.128,0.489,130.042,283400,4
 Clarity,Zedd featuring Foxes,60wwxj6Dd9NJlirf84wr2c,0.514,0.776,8,-3.393,1,0.0783,0.0371,0,0.0735,0.21,127.975,271427,4
 Sail,Awolnation,5xhQChGGhKLWqBqX4XhtYE,0.825,0.435,1,-9.582,1,0.0568,0.452,0.609,0.0953,0.243,119.038,259102,4
 Don't You Worry Child,Swedish House Mafia featuring John Martin,2V65y3PX4DkRhy1djlxd9p,0.612,0.84,11,-3.145,0,0.0509,0.112,0,0.116,0.438,129.042,212862,4
 Diamonds,Rihanna,7Kt59L2ZZGtOnIhvMwzG6f,0.555,0.709,11,-4.928,0,0.0452,0.00118,0,0.113,0.387,91.982,225147,4
-I Love It,Icona Pop featuring Charli XCX,3VZQshi4COChhXaz7cLP02,0.714,0.905,8,-2.663,1,0.0289,0.00855,2.55e-05,0.146,0.838,125.927,155337,4
+I Love It,Icona Pop featuring Charli XCX,3VZQshi4COChhXaz7cLP02,0.714,0.905,8,-2.663,1,0.0289,0.00855,2.55E-05,0.146,0.838,125.927,155337,4
 Safe and Sound,Capital Cities,6Z8R6UsFuGXGtiIxiD8ISb,0.656,0.821,0,-4.838,1,0.0325,0.000194,0.00232,0.101,0.791,117.948,192790,5
-Treasure,Bruno Mars,55h7vJchibLdUkxdlX3fK7,0.874,0.692,5,-5.28,0,0.0431,0.0412,7.24e-05,0.324,0.937,116.017,178560,4
+Treasure,Bruno Mars,55h7vJchibLdUkxdlX3fK7,0.874,0.692,5,-5.28,0,0.0431,0.0412,7.24E-05,0.324,0.937,116.017,178560,4
 The Way,Ariana Grande featuring Mac Miller,06EL94D0TA27Ik0Ke5usbj,0.644,0.879,5,-3.179,0,0.147,0.325,0,0.0742,0.83,82.518,227027,4
 Started from the Bottom,Drake,6V2D8Lls36APk0THDjBDfE,0.793,0.512,8,-7.871,1,0.188,0.0378,0,0.16,0.542,86.35,174133,4
 Come & Get It,Selena Gomez,6LoQHIo74tOzQ8EsLEkhgF,0.517,0.801,7,-4.116,0,0.0545,0.00965,0.000164,0.083,0.578,80.154,231987,4
-"Hold On, We're Going Home",Drake featuring Majid Jordan,14Rcq31SafFBHNEwXrtR2B,0.772,0.407,6,-7.442,0,0.0907,0.00349,2.4e-05,0.0705,0.292,100.006,227880,4
+"Hold On, We're Going Home",Drake featuring Majid Jordan,14Rcq31SafFBHNEwXrtR2B,0.772,0.407,6,-7.442,0,0.0907,0.00349,2.40E-05,0.0705,0.292,100.006,227880,4
 Daylight,Maroon 5,6TwfdLbaxTKzQi3AgsZNzx,0.658,0.651,2,-5.482,1,0.0271,0.00344,0,0.218,0.389,119.991,225307,4
 Feel This Moment,Pitbull featuring Christina Aguilera,0Hf4aIJpsN4Os2f0y0VqWl,0.673,0.758,7,-3.632,1,0.158,0.039,0,0.341,0.542,135.956,229507,4
-Applause,Lady Gaga,2Zj4FUsMtu9PMuJsHbGbdv,0.674,0.788,7,-4.281,0,0.0537,0.0253,2.04e-06,0.13,0.7,139.908,212333,4
+Applause,Lady Gaga,2Zj4FUsMtu9PMuJsHbGbdv,0.674,0.788,7,-4.281,0,0.0537,0.0253,2.04E-06,0.13,0.7,139.908,212333,4
 One More Night,Maroon 5,4XNrMwGx1SqP01sqkGTDmo,0.71,0.8,5,-3.439,0,0.0339,0.0563,0,0.0834,0.635,93.01,219467,4
 Love Me,Lil Wayne featuring Drake and Future,7tGlzXJv6GD5e5qlu5YmDg,0.674,0.605,8,-6.598,0,0.0335,0.0123,0,0.0963,0.452,124.92,253440,4
-My Songs Know What You Did in the Dark (Light Em Up),Fall Out Boy,7s0lDK7y3XLmI7tcsRAbW0,0.561,0.927,9,-4.374,0,0.0619,0.0313,2.34e-05,0.529,0.553,152.011,186827,4
-Fuckin' Problems,"A$AP Rocky featuring Drake, 2 Chainz and Kendrick Lamar",4XoP1AkbOurU9CeZ2rMEz2,0.869,0.687,1,-6.816,1,0.263,0.0208,1e-06,0.114,0.668,96.006,233787,4
-Beauty and a Beat,Justin Bieber featuring Nicki Minaj,190jyVPHYjAqEaOGmMzdyk,0.596,0.83,0,-4.722,1,0.0635,0.00137,3.96e-05,0.065,0.6,127.965,227987,4
-Same Love,Macklemore and Ryan Lewis featuring Mary Lambert,01uqI4H13Gsd8Lyl1EYd8H,0.688,0.473,8,-9.059,1,0.167,0.716,4.46e-05,0.104,0.299,84.958,318525,4
+My Songs Know What You Did in the Dark (Light Em Up),Fall Out Boy,7s0lDK7y3XLmI7tcsRAbW0,0.561,0.927,9,-4.374,0,0.0619,0.0313,2.34E-05,0.529,0.553,152.011,186827,4
+Fuckin' Problems,"A$AP Rocky featuring Drake, 2 Chainz and Kendrick Lamar",4XoP1AkbOurU9CeZ2rMEz2,0.869,0.687,1,-6.816,1,0.263,0.0208,1.00E-06,0.114,0.668,96.006,233787,4
+Beauty and a Beat,Justin Bieber featuring Nicki Minaj,190jyVPHYjAqEaOGmMzdyk,0.596,0.83,0,-4.722,1,0.0635,0.00137,3.96E-05,0.065,0.6,127.965,227987,4
+Same Love,Macklemore and Ryan Lewis featuring Mary Lambert,01uqI4H13Gsd8Lyl1EYd8H,0.688,0.473,8,-9.059,1,0.167,0.716,4.46E-05,0.104,0.299,84.958,318525,4
 Sweet Nothing,Calvin Harris featuring Florence Welch,24LS4lQShWyixJ0ZrJXfJ5,0.573,0.929,8,-3.942,0,0.109,0.197,0.000112,0.0567,0.582,127.934,212560,4
-Summertime Sadness,Lana Del Rey and Cédric Gervais,6PUIzlqotEmPuBfjbwYWOB,0.564,0.811,1,-5.734,0,0.0513,0.0153,8.72e-06,0.125,0.114,126.007,214912,4
+Summertime Sadness,Lana Del Rey and Cédric Gervais,6PUIzlqotEmPuBfjbwYWOB,0.564,0.811,1,-5.734,0,0.0513,0.0153,8.72E-06,0.125,0.114,126.007,214912,4
 Home,Phillip Phillips,2ZQyksYO4zzhyHNcueL0CP,0.592,0.792,0,-5.884,1,0.0335,0.0215,0,0.159,0.293,121.001,209227,4
 It's Time,Imagine Dragons,6BtmXhTJMM9sBTHeYYASGz,0.656,0.879,2,-4.614,1,0.0362,0.0178,0,0.109,0.9,104.997,237987,4
 Power Trip,J. Cole featuring Miguel,7FOJvA3PxiIU0DN3JjQ7jT,0.667,0.61,1,-7.054,1,0.217,0.322,0.000203,0.426,0.465,99.991,241160,4
@@ -56,13 +56,13 @@ Wagon Wheel,Darius Rucker,3xdjjKMcMOFgo1eQrfbogM,0.529,0.663,9,-7.138,1,0.0306,0
 Gangnam Style,Psy,03UrZgTINDqvnUMbbIMhql,0.736,0.939,11,-2.812,0,0.284,0.0055,0,0.0905,0.761,132.07,219493,4
 I Need Your Love,Calvin Harris featuring Ellie Goulding,05SBRd4fXgn8FX7bf8BCAE,0.695,0.869,8,-5.066,1,0.0483,0.41,0,0.237,0.58,124.989,234507,4
 Die Young,Kesha,6mnjcTmK8TewHfyOp3fC9C,0.711,0.7,1,-4.805,0,0.046,0.00498,0.000125,0.215,0.801,128.001,211920,4
-Some Nights,Fun,6t6oULCRS6hnI7rm0h5gwl,0.672,0.738,0,-7.045,1,0.0506,0.0178,6.75e-05,0.0927,0.392,107.938,277040,4
+Some Nights,Fun,6t6oULCRS6hnI7rm0h5gwl,0.672,0.738,0,-7.045,1,0.0506,0.0178,6.75E-05,0.0927,0.392,107.938,277040,4
 Bad,Wale featuring Tiara Thomas,64Nbnw22f8adeMuLd1nSBD,0.867,0.638,6,-6.657,0,0.0643,0.015,0,0.157,0.28,113.969,255693,4
-Boys 'Round Here,Blake Shelton featuring Pistol Annies and Friends,39FwE8edwuyiaa4PrGBkP7,0.611,0.688,2,-6.369,1,0.0529,0.251,2.35e-06,0.248,0.649,169.895,288760,4
+Boys 'Round Here,Blake Shelton featuring Pistol Annies and Friends,39FwE8edwuyiaa4PrGBkP7,0.611,0.688,2,-6.369,1,0.0529,0.251,2.35E-06,0.248,0.649,169.895,288760,4
 "Gone, Gone, Gone",Phillip Phillips,5L79aNYCTKiZq7vaOElXYj,0.662,0.65,6,-5.981,1,0.0383,0.129,0,0.113,0.481,117.992,209693,4
 Demons,Imagine Dragons,3LlAyCYU26dvFZBDUIMb7a,0.499,0.73,3,-2.831,1,0.0367,0.23,0.00018,0.378,0.381,90.058,175200,4
 Counting Stars,OneRepublic,6sy3LkhNFjJWlaeSMNwQ62,0.663,0.714,1,-4.944,0,0.038,0.0649,0,0.116,0.468,121.99,257840,4
-I Cry,Flo Rida,4bZd0nRuX8HyjeXAUBczvm,0.693,0.822,4,-5.441,0,0.0439,0.00616,1.79e-06,0.315,0.763,126.035,223800,4
+I Cry,Flo Rida,4bZd0nRuX8HyjeXAUBczvm,0.693,0.822,4,-5.441,0,0.0439,0.00616,1.79E-06,0.315,0.763,126.035,223800,4
 Little Talks,Of Monsters and Men,3a2tuvXCHbW5nuUckuHkKT,0.46,0.786,1,-5.238,1,0.038,0.0215,0,0.133,0.408,103.192,266600,4
 The Other Side,Jason Derulo,5FljCWR0cys07PQ9277GTz,0.561,0.836,9,-3.939,1,0.1,0.0525,0,0.136,0.517,127.923,226987,4
 Berzerk,Eminem,6Xk7PnitV9jCRorWt2LiVZ,0.713,0.876,2,-4.049,1,0.345,0.0228,0,0.247,0.676,95.227,238746,4
@@ -82,20 +82,20 @@ Sure Be Cool If You Did,Blake Shelton,2byuMQoY8GFXEQ5z3GnXyW,0.576,0.726,11,-4.6
 #Beautiful,Mariah Carey featuring Miguel,4wBRAwvddxf90vN9BTdG2e,0.686,0.755,4,-5.35,1,0.0366,0.33,0,0.347,0.473,107.006,199947,4
 Troublemaker,Olly Murs featuring Flo Rida,0gRczqVHrEQQDyizJUtgRc,0.761,0.856,0,-3.65,0,0.0731,0.02,0,0.149,0.967,106.009,185200,4
 Body Party,Ciara,0rFZaQ4crlGAzuCjWCQ2xu,0.577,0.576,2,-6.299,1,0.0563,0.0143,0,0.602,0.12,133.973,234040,4
-Adorn,Miguel,25cUhiAod71TIQSNicOaW3,0.625,0.576,11,-5.693,0,0.175,0.0543,4.07e-05,0.187,0.235,179.063,193147,4
+Adorn,Miguel,25cUhiAod71TIQSNicOaW3,0.625,0.576,11,-5.693,0,0.175,0.0543,4.07E-05,0.187,0.235,179.063,193147,4
 Hall of Fame,The Script featuring will.i.am,1X1DWw2pcNZ8zSub3uhlNz,0.421,0.873,10,-4.343,1,0.0565,0.0653,0,0.123,0.63,84.803,202533,4
 Let Me Love You (Until You Learn to Love Yourself),Ne-Yo,1Ejsu5JglwIgrFW7Bt2GuL,0.491,0.676,5,-6.631,1,0.0403,0.262,0,0.499,0.278,124.852,251627,4
 U.O.E.N.O.,Rocko featuring Future and Rick Ross,0HFrCOmhCYXlv4NdEwRAuj,0.422,0.641,10,-4.947,0,0.323,0.422,0,0.317,0.654,187.027,260276,3
-Next to Me,Emeli Sandé,1Xsxp1SEOxuMzjrFZhtw8u,0.674,0.81,7,-5.117,0,0.0378,0.0923,4.74e-05,0.11,0.391,94.995,196867,4
+Next to Me,Emeli Sandé,1Xsxp1SEOxuMzjrFZhtw8u,0.674,0.81,7,-5.117,0,0.0378,0.0923,4.74E-05,0.11,0.391,94.995,196867,4
 Mama's Broken Heart,Miranda Lambert,2mXsZsJBThTaJXbNcg5QD4,0.768,0.809,4,-4.204,0,0.0616,0.278,0,0.139,0.748,111.989,177773,4
 It Goes Like This,Thomas Rhett,1S1u0ausWGi2msWnuQgTCY,0.54,0.836,11,-5.914,1,0.0627,0.111,0,0.0874,0.55,167.957,186853,4
 Bugatti,Ace Hood featuring Future and Rick Ross,0uFvvXbmGIXlf5ZgtHyYpf,0.607,0.589,1,-4.929,1,0.0542,0.0168,0,0.0855,0.069,130.431,269267,4
 Wanted,Hunter Hayes,0p1BcEcYVO3uk4KDf3gzkY,0.421,0.476,0,-7.692,1,0.0298,0.268,0,0.0816,0.3,169.784,228840,4
 Downtown,Lady Antebellum,4kY7rYtE4OQkJNq22OIYRI,0.532,0.825,9,-5.287,1,0.0468,0.18,0,0.296,0.96,169.961,195867,4
-Get Your Shine On,Florida Georgia Line,6s9ICeczYOfbHHIaSMq9jd,0.508,0.93,0,-4.518,1,0.0372,0.00265,2.64e-06,0.406,0.607,96.993,222013,4
-#thatPower,will.i.am featuring Justin Bieber,01TuObJVd7owWchVRuQbQw,0.791,0.615,6,-6.149,0,0.0667,0.00162,6.47e-05,0.0812,0.393,128.017,279507,4
-Brave,Sara Bareilles,6Uy6K3KdmUdAfelUp0SeXn,0.551,0.836,10,-3.838,0,0.0524,0.00502,2.1e-05,0.0425,0.758,185.063,220573,4
+Get Your Shine On,Florida Georgia Line,6s9ICeczYOfbHHIaSMq9jd,0.508,0.93,0,-4.518,1,0.0372,0.00265,2.64E-06,0.406,0.607,96.993,222013,4
+#thatPower,will.i.am featuring Justin Bieber,01TuObJVd7owWchVRuQbQw,0.791,0.615,6,-6.149,0,0.0667,0.00162,6.47E-05,0.0812,0.393,128.017,279507,4
+Brave,Sara Bareilles,6Uy6K3KdmUdAfelUp0SeXn,0.551,0.836,10,-3.838,0,0.0524,0.00502,2.10E-05,0.0425,0.758,185.063,220573,4
 Let Her Go,Passenger,6GmUVqe73u5YRfUUynZK6I,0.479,0.545,7,-7.346,1,0.0688,0.365,0,0.0963,0.244,74.897,252733,4
-Runnin' Outta Moonlight,Randy Houser,6enPOmd3vSFpI4jjms8kXN,0.526,0.801,2,-3.717,1,0.0393,0.0354,3.17e-06,0.0637,0.769,172.024,193773,4
+Runnin' Outta Moonlight,Randy Houser,6enPOmd3vSFpI4jjms8kXN,0.526,0.801,2,-3.717,1,0.0393,0.0354,3.17E-06,0.0637,0.769,172.024,193773,4
 I'm Different,2 Chainz,6J5sxraPPZ4b0CVOGAgpXj,0.941,0.685,10,-5.24,1,0.0752,0.0415,0,0.08,0.7,97.524,207040,4
 Still Into You,Paramore,1yjY7rpaAQvKwpdUliHx0d,0.602,0.923,5,-3.763,1,0.044,0.0098,0,0.0561,0.765,136.01,216013,4
