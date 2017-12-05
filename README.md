@@ -1,6 +1,6 @@
 # Spot-the-Future
 
-## Table of contents:
+## Table of Contents:
 
 ### code
 
@@ -37,10 +37,10 @@
 - Milestone_1.docx --> report for Project Milestone 1
 - Milestone_2.pdf --> report for Project Milestone 2
 - Milestone_3.pdf --> report for Project Milestone 3
-- Presentation.pdf --> file for class presentation
+- Presentation.pdf --> slides for class presentation
 
-## Link to visualizations on Shiny app:
+## Link to Visualizations on Shiny App:
 - https://joshasuncion.shinyapps.io/song_visualizer/
 
-## Link to visualizations on Tableau Public:
+## Link to Visualizations on Tableau Public:
 - https://public.tableau.com/views/Spotify_10/Sheet1?:embed=y&:display_count=yes
