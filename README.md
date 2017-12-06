@@ -8,7 +8,7 @@
 - Line_Graph.ipynb --> contains code for plotting line graph of song features
 - Predictor.ipynb --> contains code for predicting most popular song and creating comparison plot
 - Song_Visualization.R --> contains code for creating Shiny app with wordcloud and k-means cluster plot
-- Time_Seg.ipynb --> contains code for creating interactive scatterplot of features
+- Time_Segmented_Graph.ipynb --> contains code for creating interactive scatterplot of features
 - demo_Data_Collector.ipynb --> contains demo code of Data_Collector.ipynb for presentation
 
 ### data
