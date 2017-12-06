@@ -34,6 +34,7 @@
 
 ### report
 
+- Final_Report.pdf --> finalized report for project
 - Milestone_1.docx --> report for Project Milestone 1
 - Milestone_2.pdf --> report for Project Milestone 2
 - Milestone_3.pdf --> report for Project Milestone 3
